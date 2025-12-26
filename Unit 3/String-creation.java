@@ -8,6 +8,6 @@ public class teststring{
         String S4 = new String("Adi");
 
         System.out.println(S1==S2); // true
-        System.out.println(S3==S4); // false
+        System.out.println(S3==S4); // false 
     }
 }
