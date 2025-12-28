@@ -1,4 +1,4 @@
-public class array2D{
+class Array2D{
     public static void main(String[] args){
         int[][] matrix = {
             {1, 2, 3},

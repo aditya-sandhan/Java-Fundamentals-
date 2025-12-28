@@ -18,7 +18,7 @@ class square implements shape{
         System.out.println("Coloring square as yellow");
     }
 }
-public class interface_intro {
+class InterfaceIntro {
     public static void main(String[] args){
         shape C = new circle();         //Dynamic method dispatch
         shape S = new square();

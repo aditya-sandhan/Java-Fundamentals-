@@ -1,4 +1,4 @@
-public class arry{
+class Array1D{
     public static void main(String[] args){
         //declaration and memory allocation
         int[] arr = new int[5];

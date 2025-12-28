@@ -16,7 +16,7 @@ class square extends Shape{
         System.out.println("Drawing Square");
     }
 }
-public class demo{
+class Demo{
     public static void main(String[] args){
         Shape s;
         s = new Circle();

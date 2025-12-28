@@ -13,7 +13,7 @@ class C extends B{
         System.out.println("In C");
     }
 }
-public class multilevel{
+class MultilevelDemo{
     public static void main(String[] args){
         C obj = new C();
         obj.showA();

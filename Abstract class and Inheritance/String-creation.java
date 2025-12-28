@@ -1,7 +1,7 @@
-public class teststring{
-    pubic static void main(String[] args){
+class TestStringCreation{
+    public static void main(String[] args){
 
-        String S1 = "Adi"; // String Literals (Stored inside SCP- Strng constant pool )
+        String S1 = "Adi"; // String Literals (Stored inside SCP- String constant pool )
         String S2 ="Adi";
 
         String S3 = new String("Adi"); // Created using new keyword (Stored inside Heap memory)

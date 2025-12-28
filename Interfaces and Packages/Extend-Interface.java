@@ -21,7 +21,7 @@ class demo implements C{
         System.out.println("Implementation of methodC from interface C");
     }
 }
-public class Main {
+class MainDemo {
     public static void main(String[] args){
         demo obj = new demo();
         obj.methodA();

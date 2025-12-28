@@ -1,4 +1,4 @@
-public class teststring{
+class TestStringMethods{
     public static void main(String[] args){
 
         String S1 = "Aditya sandhan is a Entrepreneur";
